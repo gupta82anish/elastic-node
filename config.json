@@ -1,0 +1,4 @@
+{
+    "filepath":"./files",
+    "elasticsearchpath":"localhost:9200"
+}
